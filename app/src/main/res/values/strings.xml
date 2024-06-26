@@ -1,0 +1,39 @@
+<!--
+  ~ Copyright (C) 2023 The Android Open Source Project.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">BiniBaby</string>
+    <string name="dog_name_1">Aiah</string>
+    <string name="dog_name_2">Colet</string>
+    <string name="dog_name_3">maloi</string>
+    <string name="dog_name_4">Jhoanna</string>
+    <string name="dog_name_5">Gwen</string>
+    <string name="dog_name_6">Mikha</string>
+    <string name="dog_name_7">Stacey</string>
+    <string name="dog_name_8">Sheena</string>
+    <string name="dog_name_9">aethirds GF</string>
+    <string name="dog_description_1">Main Rapper, Sub Vocalist, Visual</string>
+    <string name="dog_description_2">Main Vocalist, Lead Dancer, Lead Rapper</string>
+    <string name="dog_description_3">Main Vocalist</string>
+    <string name="dog_description_4">Leader, Lead Vocalist, Lead Rapper</string>
+    <string name="dog_description_5">Lead Vocalist, Lead Rapper</string>
+    <string name="dog_description_6">Main Rapper, Lead Dancer, Visual</string>
+    <string name="dog_description_7">Main Rapper, Lead Dancer, Sub Vocalist</string>
+    <string name="dog_description_8">Main Dancer, Sub Vocalist, Youngest (Bunso)</string>
+    <string name="dog_description_9">Bebe ni Aethird</string>
+    <string name="about">About:</string>
+    <string name="years_old">%d years old</string>
+    <string name="expand_button_content_description">See more or less information about a dog.</string>
+</resources>
